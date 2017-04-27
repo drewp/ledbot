@@ -1,0 +1,9 @@
+[submodule "Adafruit-GFX-Library"]
+	path = Adafruit-GFX-Library
+	url = https://github.com/adafruit/Adafruit-GFX-Library.git
+[submodule "Adafruit-PCD8544-Nokia-5110-LCD-library"]
+	path = Adafruit-PCD8544-Nokia-5110-LCD-library
+	url = https://github.com/adafruit/Adafruit-PCD8544-Nokia-5110-LCD-library.git
+[submodule "FastLED"]
+	path = FastLED
+	url = https://github.com/FastLED/FastLED.git
